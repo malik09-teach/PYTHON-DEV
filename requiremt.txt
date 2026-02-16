@@ -1,0 +1,6 @@
+numpy 
+pandas 
+pygame 
+speech_recognition as sr
+webbrowser
+pyttsx3
